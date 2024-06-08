@@ -19,6 +19,7 @@
   <li>When you complete the full program, you’ll have a portfolio of projects and a Professional Certificate from IBM to showcase your expertise. You’ll also earn an IBM Digital badge and will gain access to career resources to help you in your job search, including mock interviews and resume support.</li> 
 </ul>
 
+<h3>Courses</h3>
 <ol>
   <li>Introduction to Data Engineering</li>
   <li>Python for Data Science, AI & Development</li>
